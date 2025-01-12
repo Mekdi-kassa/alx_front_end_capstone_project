@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const BASE_URL = 'https://wger.de/api/v2/';
-const API_TOKEN = '3d891829e955118775c40e27d4f907caef9df718';  // Permanent token
+const API_TOKEN = '78b796b42a4985a9e3858a3887bca16c1cf53b83';  // Permanent token
 
 const api = axios.create({
   baseURL: BASE_URL,
